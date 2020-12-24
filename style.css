@@ -77,7 +77,7 @@ section {
 @keyframes snowThree {
     0%
     {
-        background-position: 0px 100%;
+        background-position: 0px 0%;
     }
     100%
     {
