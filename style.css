@@ -55,33 +55,33 @@ section {
 @keyframes snowOne {
     0%
     {
-        background-position: 0px 100%;
+        background-position: 0px 0px;
     }
     100%
     {
-        background-position: 300px 750px;
+        background-position: 100px 100vh;
     }
 }
 
 @keyframes snowTwo {
     0%
     {
-        background-position: 0px -100%;
+        background-position: 0px -100px;
     }
     100%
     {
-        background-position: 300px 750px;
+        background-position: 0px 100vh;
     }
 }
 
 @keyframes snowThree {
     0%
     {
-        background-position: 0px 0%;
+        background-position: 0px 100px;
     }
     100%
     {
-        background-position: 300px 750px;
+        background-position: 200px 100vh;
     }
 }
 
