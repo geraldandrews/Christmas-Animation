@@ -119,4 +119,17 @@ section {
     }
 }
 
+@media (max-width: 768px) {
+    .text {
+        font-size: 5rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .text {
+        font-size: 4rem;
+    }
+}
+
+
 
