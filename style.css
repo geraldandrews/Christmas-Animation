@@ -130,7 +130,7 @@ section {
     }
 } 
 
-@media (max-width: 768px) {
+@media (max-width: 820px) {
     .text {
         font-size: 5rem;
     }
@@ -324,7 +324,7 @@ section {
     animation-name: light-up-theme-color-five;
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 820px) {
       .light-bulb::after {
           width: 60px;
       }
